@@ -1,7 +1,3 @@
-# Realtime_Vaccination_Project
-
-Four members of our group are involved in this industrial training project: Vijay, Vaibhav, Samarth, and Pranav.
-The project here will focus on real-time vaccinations in the healthcare sector(domain).
-The entire team will contribute to this project to the best of our abilities.
-We will add some more modules according to the requirements.
-one commit by vaibhav
+Vaccine_management_system
+Its our group project we've done for our Industrial Training.
+As well as Awt and Swing components, we've also used event handling, and JDBC is the main part of our project...It has been a team effort between Pranav, Vaibhav, Samarth, and me (Vijay) to complete this project.
